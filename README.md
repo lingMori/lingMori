@@ -76,7 +76,7 @@ Here are some ideas to get you started:
     <code><img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" title="Linux"></code>
     <code><img height="20" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Win" title="Win"></code>
     <br><br><strong>Game Platform 😆</strong><br><br>
-    <a href="https://steamcommunity.com/id/cwher/">
+    <a href="https://steamcommunity.com/id/shirozhang/">
         <code><img height="20" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" title="Steam"></code>
     </a>
     <code><img height="20" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic" title="Epic"></code>
