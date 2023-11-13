@@ -38,7 +38,14 @@ Here are some ideas to get you started:
     </p>
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/lingMori/count.svg)
+<div align="center">
+    <p>
+        <a href="https://github.com/lingMori" class="rich-diff-level-one">
+            <img src="https://profile-counter.glitch.me/lingMori/count.svg"
+                alt="Shiro's Stats">
+        </a>
+    </p>
+</div>
 
 ---
 
