@@ -40,13 +40,14 @@ Here are some ideas to get you started:
 
 <div align="center">
     <p>
-        <a>You are my </a>
+        <a><strong>You are my</strong></a>
         <a href="https://github.com/lingMori" class="rich-diff-level-one">
             <img src="https://profile-counter.glitch.me/lingMori/count.svg" alt="GitHub Profile Views">
         </a>
-        <a> visitor,Thank You!:kissing_heart::kissing_heart:</a>
+        <a><strong>visitor, Thank You! :kissing_heart::kissing_heart:</strong></a>
     </p>
 </div>
+
 
 
 ---
