@@ -40,12 +40,12 @@ Here are some ideas to get you started:
 
 <div align="center">
     <p>
-        <a href="https://github.com/lingMori" class="rich-diff-level-one">
-            <img src="https://profile-counter.glitch.me/lingMori/count.svg"
-                alt="Shiro's Stats">
+        <a href="https://github.com/lingMori" class="rich-diff-level-one" style="text-decoration: none; color: #333; font-weight: bold;">
+            <img src="https://profile-counter.glitch.me/lingMori/count.svg" alt="GitHub Profile Views">
         </a>
     </p>
 </div>
+
 
 ---
 
