@@ -38,11 +38,7 @@ Here are some ideas to get you started:
     </p>
 </div>
 
-<div align="center">
-    <a href="https://github.com/lingMori">
-        <img src="https://gist.githubusercontent.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/basic.svg">
-    </a>
-</div>
+![Visitor Count](https://profile-counter.glitch.me/lingMori/count.svg)
 
 ---
 
