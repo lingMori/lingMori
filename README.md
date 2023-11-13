@@ -40,9 +40,11 @@ Here are some ideas to get you started:
 
 <div align="center">
     <p>
-        <a href="https://github.com/lingMori" class="rich-diff-level-one" style="text-decoration: none; color: #333; font-weight: bold;">
+        <a>You are my </a>
+        <a href="https://github.com/lingMori" class="rich-diff-level-one">
             <img src="https://profile-counter.glitch.me/lingMori/count.svg" alt="GitHub Profile Views">
-        </a> People have visited my profile
+        </a>
+        <a> visitor,Thank You!:kissing_heart::kissing_heart:</a>
     </p>
 </div>
 
