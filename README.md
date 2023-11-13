@@ -12,10 +12,10 @@
 
 - :warning: My GitHub personal website is currently under reconstruction, you can view some of my repos.
 
-- 💬 More about me ([CV](https://github.com/CWHer/cwher/blob/main/CV.pdf), latest update 2023/6)
+- 💬 More about me ([CV], latest update 2023/6)
 
 <!--
-**CWHer/cwher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lingMori/lingMori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 
 <div align="center">
     <p>
-        <a href="https://github.com/CWHer" class="rich-diff-level-one">
-            <img src="https://github-readme-stats.vercel.app/api?username=cwher&count_private=true&show_icons=true&theme=tokyonight"
-                alt="Chen's Stats">
+        <a href="https://github.com/lingMori" class="rich-diff-level-one">
+            <img src="https://github-readme-stats.vercel.app/api?username=lingMori&count_private=true&show_icons=true&theme=tokyonight"
+                alt="Shiro's Stats">
         </a>
     </p>
 </div>
 
 <div align="center">
-    <a href="https://github.com/CWHer">
+    <a href="https://github.com/lingMori">
         <img src="https://gist.githubusercontent.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/basic.svg">
     </a>
 </div>
