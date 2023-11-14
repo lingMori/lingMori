@@ -2,11 +2,13 @@
 
 - :star: I received my B.S. in Cyber Science and Technology from [Beihang University](https://www.buaa.edu.cn/) in 2023.
 
-- :thinking: I’m broadly interested in the intersection of machine learning, and blockchain.
+- :thinking: I’m broadly interested in the intersection of machine learning, Web3, and blockchain.
 
   - Efficient and affordable machine learning systems
 
-  - Accelerating machine learning training and inference on heterogeneous hardware
+  - Web3 Blockchain Infrastructure for Video, Media & Entertainment
+  
+  -  hybrid configuration that combines cloud-based infrastructures and the power of decentralized edge node network
 
 - :seedling: Looking for internships that end in May 2024.
 
