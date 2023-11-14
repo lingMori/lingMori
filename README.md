@@ -100,6 +100,5 @@ Here are some ideas to get you started:
 :bar_chart: **This week I spent my time on:**
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
