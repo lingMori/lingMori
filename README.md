@@ -1,26 +1,26 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:7aa2f7,100:ff79c6&text=Ling%20Mori&fontColor=f8f8f2&fontSize=58&animation=fadeIn&desc=ML%20Systems%20%7C%20Web3%20Infra%20%7C%20Anime-coded%20Builder&descAlignY=63&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:7aa2f7,100:ff79c6&text=Ling%20Mori&fontColor=f8f8f2&fontSize=58&animation=fadeIn&desc=ML%20systems%2C%20Web3%20media%20infra%2C%20and%20small%20night-city%20experiments&descAlignY=63&descSize=17"
     alt="Ling Mori profile banner"
   />
 </div>
 
 <p align="center">
   <a href="https://github.com/lingMori">
-    <img src="https://komarev.com/ghpvc/?username=lingMori&label=Profile%20views&color=ff79c6&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=lingMori&label=views&color=ff79c6&style=flat-square" alt="Profile views" />
   </a>
   <a href="https://github.com/lingMori?tab=followers">
-    <img src="https://img.shields.io/github/followers/lingMori?label=Followers&style=flat-square&color=7aa2f7&logo=github" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/lingMori?label=followers&style=flat-square&color=7aa2f7&logo=github" alt="GitHub followers" />
   </a>
   <img src="https://img.shields.io/badge/Beihang-University-9ece6a?style=flat-square" alt="Beihang University" />
-  <img src="https://img.shields.io/badge/status-building%20quietly-bb9af7?style=flat-square" alt="Current status" />
+  <img src="https://img.shields.io/badge/mood-late%20night%20builds-bb9af7?style=flat-square" alt="Late night builds" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=BB9AF7&center=true&vCenter=true&width=880&lines=Hi%2C%20I%27m%20Shiro%20Zhang%20%2F%20Ling%20Mori;Building%20efficient%20ML%20systems%20and%20Web3%20media%20infra;Making%20research%20ideas%20feel%20like%20playable%20quests"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=BB9AF7&center=true&vCenter=true&width=880&lines=Hi%2C%20I%27m%20Shiro%20Zhang%2C%20also%20Ling%20Mori%20online;I%20like%20systems%20that%20stay%20practical%20when%20they%20scale;Usually%20coding%20with%20music%2C%20coffee%2C%20and%20too%20many%20tabs"
       alt="Typing SVG"
     />
   </a>
@@ -28,25 +28,22 @@
 
 ---
 
-## Prologue
+## Hi, I'm Shiro
 
-Hi, I'm **Shiro Zhang**, also online as **Ling Mori**.
+I'm **Shiro Zhang**, also **Ling Mori** online. I studied Cyber Science and Technology at [Beihang University](https://www.buaa.edu.cn/) and somehow kept wandering toward the same corner of the map, where machine learning systems, Web3 infrastructure, and decentralized edge networks overlap.
 
-I received my B.S. in Cyber Science and Technology from [Beihang University](https://www.buaa.edu.cn/) in 2023. My work lives near the intersection of **machine learning systems**, **Web3 infrastructure**, and **decentralized edge networks**.
+The part that keeps pulling me back is not the buzzword layer. It is the engineering underneath. How do we make useful compute cheaper, easier to run, and less fragile when real people start depending on it?
 
-I like systems that are affordable, observable, and a little bit magical: cloud power where it makes sense, edge nodes where latency matters, and interfaces that make complex infra feel readable.
+I like quiet tools, readable dashboards, late-night debugging, and the kind of interface that feels like it belongs in a near-future anime lab without becoming hard to use.
 
-## Quest Log
+## What I'm Into
 
-| Arc | Current focus |
-| --- | --- |
-| Main quest | Efficient and affordable machine learning systems |
-| World map | Web3 infrastructure for video, media, and entertainment |
-| Research route | Hybrid cloud + decentralized edge node networks |
-| UI mood | Tokyo-night colors, clean dashboards, soft anime energy |
-| Side channel | Games, media tech, and experiments that feel fun to open |
+- Efficient ML systems that do not assume infinite budget.
+- Media and entertainment infrastructure where Web3 is useful without getting in the user's way.
+- Hybrid networks where cloud machines and edge nodes each do the thing they are good at.
+- Small experiments that begin as curiosity and slowly turn into something worth showing.
 
-## Skill Tree
+## Tools I Reach For
 
 <p align="center">
   <img
@@ -62,7 +59,7 @@ I like systems that are affordable, observable, and a little bit magical: cloud 
   <img src="https://img.shields.io/badge/Media%20Tech-ff79c6?style=for-the-badge" alt="Media Tech" />
 </p>
 
-## Status Screen
+## A Few Signals
 
 <p align="center">
   <img
@@ -91,12 +88,12 @@ I like systems that are affordable, observable, and a little bit magical: cloud 
   />
 </p>
 
-## Dev Metrics
+## WakaTime
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## Signal Board
+## Elsewhere
 
 <p align="center">
   <a href="https://github.com/lingMori">
@@ -108,7 +105,7 @@ I like systems that are affordable, observable, and a little bit magical: cloud 
 </p>
 
 <p align="center">
-  <sub>System online. Build logs glowing. See you in the next episode.</sub>
+  <sub>This profile is a small desk in a night-colored workshop. A few tools, a few traces, and things still taking shape.</sub>
 </p>
 
 <div align="center">
