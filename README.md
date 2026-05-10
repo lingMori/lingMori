@@ -1,8 +1,8 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:7aa2f7,100:ff79c6&text=Ling%20Mori&fontColor=f8f8f2&fontSize=58&animation=fadeIn&desc=ML%20systems%2C%20Web3%20media%20infra%2C%20and%20small%20night-city%20experiments&descAlignY=63&descSize=17"
-    alt="Ling Mori profile banner"
+    src="./assets/artoria-cyberpunk-banner.gif"
+    alt="Artoria pixel cyberpunk banner"
   />
 </div>
 
