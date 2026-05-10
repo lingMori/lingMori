@@ -61,7 +61,7 @@ I like quiet tools, readable dashboards, late-night debugging, and the kind of i
 
 ## A Few Signals
 
-<p align="center">
+<!-- <p align="center">
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=lingMori&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
@@ -72,7 +72,7 @@ I like quiet tools, readable dashboards, late-night debugging, and the kind of i
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingMori&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top languages"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
